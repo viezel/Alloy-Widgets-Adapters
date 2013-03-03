@@ -7,3 +7,6 @@
 [submodule "nl.fokkezb.dynamicScrolling"]
     path = /widgets/dynamicScrolling
     url = git://github.com/FokkeZB/nl.fokkezb.dynamicScrolling.git
+[submodule "widgets/cachedImageView"]
+	path = widgets/cachedImageView
+	url = git://github.com/FokkeZB/nl.fokkezb.cachedImageView.git
