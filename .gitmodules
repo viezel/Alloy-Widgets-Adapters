@@ -1,7 +1,7 @@
-[submodule "nl.fokkezb.pullToRefresh"]
+[submodule "widgets/pullToRefresh"]
 	path = widgets/pullToRefresh
 	url = git://github.com/FokkeZB/nl.fokkezb.pullToRefresh.git
-[submodule "nl.fokkezb.dynamicScrolling"]
+[submodule "widgets/dynamicScrolling"]
 	path = widgets/dynamicScrolling
 	url = git://github.com/FokkeZB/nl.fokkezb.dynamicScrolling.git
 [submodule "widgets/cachedImageView"]
