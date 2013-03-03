@@ -55,3 +55,24 @@
 [submodule "widgets/ZuruiLine"]
 	path = widgets/ZuruiLine
 	url = git://github.com/hoyo/net.hoyohoyo.zuruiline.git
+[submodule "adapters/restapi"]
+	path = adapters/restapi
+	url = https://github.com/viezel/napp.alloy.adapter.restapi.git
+[submodule "adapters/restsql"]
+	path = adapters/restsql
+	url = https://github.com/viezel/napp.alloy.adapter.restsql.git
+[submodule "adapters/parse"]
+	path = adapters/parse
+	url = git://github.com/centogram/Alloy-Parse-Adapter.git
+[submodule "adapters/cloudmine"]
+	path = adapters/cloudmine
+	url = git://github.com/aaronksaunders/ci.alloy.cloudmine.books.git
+[submodule "adapters/stackmob"]
+	path = adapters/stackmob
+	url = git://github.com/aaronksaunders/Alloy-StackMob-Adapter.git
+[submodule "adapters/ACS"]
+	path = adapters/ACS
+	url = git://github.com/aaronksaunders/ci.alloy.adapter.two.git
+[submodule "adapters/touchdb"]
+	path = adapters/touchdb
+	url = git://github.com/pegli/alloy-ti_touchdb.git
