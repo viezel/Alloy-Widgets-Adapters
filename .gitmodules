@@ -7,3 +7,45 @@
 [submodule "widgets/cachedImageView"]
 	path = widgets/cachedImageView
 	url = git://github.com/FokkeZB/nl.fokkezb.cachedImageView.git
+[submodule "widgets/ti.pedro"]
+	path = widgets/ti.pedro
+	url = git://github.com/pec1985/Alloy-Widgets.git
+[submodule "widgets/combobox"]
+	path = widgets/combobox
+	url = git://github.com/orthlieb/widget_combobox.git
+[submodule "widgets/navigation"]
+	path = widgets/navigation
+	url = git://github.com/orthlieb/widget_navigation.git
+[submodule "widgets/scrollablewebview"]
+	path = widgets/scrollablewebview
+	url = git://github.com/orthlieb/widget_scrollablewebview.git
+[submodule "widgets/info"]
+	path = widgets/info
+	url = git://github.com/orthlieb/widget_info.git
+[submodule "widgets/ti.sandtonio"]
+	path = widgets/ti.sandtonio
+	url = git://github.com/sandtonio/Alloy-Widgets.git
+[submodule "widgets/SliderMenu"]
+	path = widgets/SliderMenu
+	url = git://github.com/danielsefton/AlloySliderMenu.git
+[submodule "widgets/ci.twitter"]
+	path = widgets/ci.twitter
+	url = git://github.com/aaronksaunders/ci-alloy-twitter-widget.git
+[submodule "widgets/rss"]
+	path = widgets/rss
+	url = git://github.com/eqhes/alloy-rss-widget.git
+[submodule "widgets/calendar"]
+	path = widgets/calendar
+	url = git://github.com/hamasyou/titanium_alloy_calendar.git
+[submodule "widgets/star-message"]
+	path = widgets/star-message
+	url = git://github.com/AppceleratorSolutions/AlloyWidgets.git
+[submodule "widgets/ACS-login"]
+	path = widgets/ACS-login
+	url = git://github.com/bettytran/acsloginwidget.git
+[submodule "widgets/browserView"]
+	path = widgets/browserView
+	url = git://github.com/FokkeZB/nl.fokkezb.browserView.git
+[submodule "widgets/tweetsView"]
+	path = widgets/tweetsView
+	url = git://github.com/FokkeZB/nl.fokkezb.tweetsView.git
