@@ -1,4 +1,4 @@
-Alloy-Widgets
+Alloy Widgets
 =============
 
-List of Titanium Alloy Widgets
+Lets create a list of open source Titanium Alloy Widgets.
