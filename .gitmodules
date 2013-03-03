@@ -49,3 +49,9 @@
 [submodule "widgets/tweetsView"]
 	path = widgets/tweetsView
 	url = git://github.com/FokkeZB/nl.fokkezb.tweetsView.git
+[submodule "widgets/IconicLabel"]
+	path = widgets/IconicLabel
+	url = git://github.com/hoyo/net.hoyohoyo.iconiclabel.git
+[submodule "widgets/ZuruiLine"]
+	path = widgets/ZuruiLine
+	url = git://github.com/hoyo/net.hoyohoyo.zuruiline.git
