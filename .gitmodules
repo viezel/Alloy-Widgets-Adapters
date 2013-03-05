@@ -76,3 +76,6 @@
 [submodule "adapters/touchdb"]
 	path = adapters/touchdb
 	url = git://github.com/pegli/alloy-ti_touchdb.git
+[submodule "widgets/drawermenu"]
+	path = widgets/drawermenu
+	url = https://github.com/ricardoalcocer/alloy-widget-drawermenu
