@@ -79,3 +79,6 @@
 [submodule "widgets/drawermenu"]
 	path = widgets/drawermenu
 	url = https://github.com/ricardoalcocer/alloy-widget-drawermenu
+[submodule "widgets/button"]
+	path = widgets/button
+	url = https://github.com/FokkeZB/nl.fokkezb.button.git
